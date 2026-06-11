@@ -51,6 +51,11 @@ for province in provinces:
             )
             data = response.json()
 
+            #DIAGNÓSTICO DE FALLAS EN LA RESPUESTA DE GOOGLE
+            print(f"Estado de la respuesta de Google: {data.get('status')}")
+            if data.get("error_message"):                 
+                print(f"Mensaje de error: {data.get('error_message')}") 
+
             for place in data.get("results", []):
                 rows.append({
                     # Datos de búsqueda
