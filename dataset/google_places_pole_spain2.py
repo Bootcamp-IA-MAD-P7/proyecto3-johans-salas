@@ -10,8 +10,9 @@ load_dotenv()
 # Recupera la API Key de forma segura
 API_KEY = os.getenv("GOOGLE_PLACES_API_KEY")
 
-RAW_CSV_PATH = "pole_dance_spain_raw.csv"
-OUTPUT_CSV_PATH = "pole_dance_spain_enriched.csv"
+#RUTAS DE LOS ARCHIVOS
+RAW_CSV_PATH = "dataset/pole_dance_spain_raw.csv"
+OUTPUT_CSV_PATH = "dataset/pole_dance_spain_enriched.csv"
 
 # Valida que la clave se ha cargado correctamente antes de iniciar
 if not API_KEY:
