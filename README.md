@@ -82,7 +82,9 @@ El notebook `eda_pole_dance_spain.ipynb` contiene 10 secciones de análisis:
 
 ## Reporte Ejecutivo del Proyecto
 Puedes descargar y visualizar el informe completo en formato PDF haciendo clic aquí: 
-👉 **[Descargar Reporte Ejecutivo](./Reporte_Ejecutivo_Pole_Dance_Spain.pdf)**
+👉 **[Descargar Reporte Ejecutivo](./Reporte_Ejecutivo_Pole_Dance_Spain.pdf?raw=true)**
+
+---
 
 ## Ejecución
 
