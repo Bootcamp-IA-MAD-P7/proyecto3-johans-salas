@@ -11,6 +11,12 @@ El propósito de este Análisis Exploratorio de Datos (EDA) es comprender la dis
 
 ---
 
+## Reporte Ejecutivo del Proyecto
+Puedes descargar y visualizar el informe completo en formato PDF haciendo clic aquí: 
+👉 **[Descargar Reporte Ejecutivo](https://raw.githubusercontent.com/Bootcamp-IA-MAD-P7/proyecto3-johans-salas/main/Reporte_Ejecutivo_Pole_Dance_Spain.pdf)**
+
+---
+
 ## Estructura del Proyecto
 
 ```
@@ -80,12 +86,6 @@ El notebook `eda_pole_dance_spain.ipynb` contiene 10 secciones de análisis:
 
 ---
 
-## Reporte Ejecutivo del Proyecto
-Puedes descargar y visualizar el informe completo en formato PDF haciendo clic aquí: 
-👉 **[Descargar Reporte Ejecutivo](https://raw.githubusercontent.com/Bootcamp-IA-MAD-P7/proyecto3-johans-salas/main/Reporte_Ejecutivo_Pole_Dance_Spain.pdf)**
-
----
-
 ## Ejecución
 
 ```bash
@@ -95,3 +95,5 @@ pip install -r requirements.txt
 # Ejecutar el notebook
 jupyter notebook eda_pole_dance_spain.ipynb
 ```
+
+---
