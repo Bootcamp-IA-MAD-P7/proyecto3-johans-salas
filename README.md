@@ -1,4 +1,4 @@
-# Exploración y Visualización de Escuelas de Pole Dance en España (EDA)
+# 📊 Exploración y Visualización de Escuelas de Pole Dance en España (EDA)
 
 ---
 
@@ -65,6 +65,7 @@ El notebook `eda_pole_dance_spain.ipynb` contiene 10 secciones de análisis:
 - **Scikit-learn** - Clustering (DBSCAN) y escalado
 - **SciPy** - Análisis estadístico (regresión lineal)
 - **Google Places API** - Obtención de datos
+- **Requests** - Obtención de datos
 
 ---
 
@@ -78,6 +79,10 @@ El notebook `eda_pole_dance_spain.ipynb` contiene 10 secciones de análisis:
 - **Oportunidades:** Provincias como Sevilla, Málaga, Murcia y Bilbao combinan alta población con densidad moderada de escuelas.
 
 ---
+
+## Reporte Ejecutivo del Proyecto
+Puedes descargar y visualizar el informe completo en formato PDF haciendo clic aquí: 
+👉 **[Descargar Reporte Ejecutivo de Pole Dance](./Reporte_Ejecutivo_Pole_Dance_Spain.pdf)**
 
 ## Ejecución
 
