@@ -16,7 +16,7 @@ El propósito de este Análisis Exploratorio de Datos (EDA) es comprender la dis
 ```
 proyecto3-eda-js/
 ├── dataset/
-│   ├── pole_dance_spain_raw.csv          # Dataset original sin procesar
+│   ├── pole_dance_spain_raw.csv           # Dataset original sin procesar
 │   ├── pole_dance_spain_enriched.csv      # Dataset enriquecido y limpio
 │   ├── google_places_pole_spain.py        # Script de recolección de datos (v1)
 │   └── google_places_pole_spain2.py       # Script de recolección de datos (v2)
